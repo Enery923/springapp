@@ -1,0 +1,4 @@
+INSERT INTO clients (id, CompleteName, address, entity, inversion) values('12341234P', 'María García García', 'C/ Juan XXIII 12 3º A', 'Bankia', 3000000.00);
+INSERT INTO clients (id, CompleteName, address, entity, inversion) values('43214321P', 'José Ramirez Alcalde', 'Av. América 114 8º B', 'Grupo PRISA', 250000.00);
+INSERT INTO clients (id, CompleteName, address, entity, inversion) values('10101010A', 'José María Jiménez Sancho','Tv. Pizarro 2 10º C','Inditex', 22000.81);
+INSERT INTO clients (id, CompleteName, address, entity, inversion) values('13579555B', 'María Jesús Cachafeiro Armenteros','Paseo la Castellana 25 7º A','Barclays', 22000.81);
